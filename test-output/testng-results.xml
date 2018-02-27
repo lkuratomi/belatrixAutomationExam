@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="5" passed="5">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="63774" started-at="2018-02-26T21:52:47Z" finished-at="2018-02-26T21:53:50Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="63774" started-at="2018-02-26T21:52:47Z" finished-at="2018-02-26T21:53:50Z">
+      <class name="com.belatrix.selenium.SeleniumTest.EbayTest">
+        <test-method status="PASS" signature="beforeMethod(org.testng.ITestContext)[pri:0, instance:com.belatrix.selenium.SeleniumTest.EbayTest@3e6fa38a]" name="beforeMethod" is-config="true" duration-ms="15457" started-at="2018-02-26T16:52:47Z" finished-at="2018-02-26T16:53:02Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[org.testng.TestRunner@5ddeb7cb]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeMethod -->
+        <test-method status="PASS" signature="assertAscendantOrder()[pri:0, instance:com.belatrix.selenium.SeleniumTest.EbayTest@3e6fa38a]" name="assertAscendantOrder" duration-ms="47611" started-at="2018-02-26T16:53:02Z" finished-at="2018-02-26T16:53:50Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- assertAscendantOrder -->
+        <test-method status="PASS" signature="firstFiveProducts()[pri:0, instance:com.belatrix.selenium.SeleniumTest.EbayTest@3e6fa38a]" name="firstFiveProducts" duration-ms="1" started-at="2018-02-26T16:53:50Z" finished-at="2018-02-26T16:53:50Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- firstFiveProducts -->
+        <test-method status="PASS" signature="numberOfResults()[pri:0, instance:com.belatrix.selenium.SeleniumTest.EbayTest@3e6fa38a]" name="numberOfResults" duration-ms="22" started-at="2018-02-26T16:53:50Z" finished-at="2018-02-26T16:53:50Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- numberOfResults -->
+        <test-method status="PASS" signature="orderByName()[pri:0, instance:com.belatrix.selenium.SeleniumTest.EbayTest@3e6fa38a]" name="orderByName" duration-ms="1" started-at="2018-02-26T16:53:50Z" finished-at="2018-02-26T16:53:50Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- orderByName -->
+        <test-method status="PASS" signature="orderByPriceDesc()[pri:0, instance:com.belatrix.selenium.SeleniumTest.EbayTest@3e6fa38a]" name="orderByPriceDesc" duration-ms="1" started-at="2018-02-26T16:53:50Z" finished-at="2018-02-26T16:53:50Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- orderByPriceDesc -->
+        <test-method status="PASS" signature="afterClass()[pri:0, instance:com.belatrix.selenium.SeleniumTest.EbayTest@3e6fa38a]" name="afterClass" is-config="true" duration-ms="655" started-at="2018-02-26T16:53:50Z" finished-at="2018-02-26T16:53:50Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterClass -->
+      </class> <!-- com.belatrix.selenium.SeleniumTest.EbayTest -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
